@@ -15,7 +15,7 @@ public class Unit2 {
      */
     public static String concatenateStrings(String str1, String str2) {
         // TODO: Implement this method using String concatenation
-        return null;
+        return str1+str2;
     }
 
     /**
